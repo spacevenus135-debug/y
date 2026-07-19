@@ -1,6 +1,4 @@
 telethon
-curl_cffi
+requests
 aiohttp
 aiofiles
-requests
-urllib3
